@@ -21,28 +21,5 @@
         "assetName":"",
         "policyId":""
     }
- },
- {
-    "pairName": "BYR2/ADA",
-    "assetA":{
-        "assetName":"BYR2",
-        "policyId":"8aec86a2545cd7e1ea189c29a6e87ed0ead3ab19404ec1603ee6aa05"
-    },
-    "assetB":{
-        "assetName":"",
-        "policyId":""
-    }
-
- },
- {
-    "pairName": "pierniczki/ADA",
-    "assetA":{
-        "assetName":"pierniczki",
-        "policyId":"2f8f504c953accfec330b678b288776e769ffc02e214c7c0200c090b"
-    },
-    "assetB":{
-        "assetName":"",
-        "policyId":""
-    }
  }
 ]
