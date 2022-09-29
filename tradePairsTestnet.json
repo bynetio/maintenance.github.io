@@ -45,5 +45,71 @@
         "assetName":"",
         "policyId":""
     }
+ },
+ {
+    "pairName": "BART/ADA",
+    "assetA":{
+        "assetName":"BART",
+        "policyId":"c6cc953af29c76fa4e674af6de620d2334a13143334c05e83c497e00"
+    },
+    "assetB":{
+        "assetName":"",
+        "policyId":""
+    }
+ },
+ {
+    "pairName": "JAN/ADA",
+    "assetA":{
+        "assetName":"JAN",
+        "policyId":"07cceab5ea30fd508ab7cb79fb14a6640ae183aa0bc110f73b4c51e4"
+    },
+    "assetB":{
+        "assetName":"",
+        "policyId":""
+    }
+ },
+ {
+    "pairName": "LUCY/ADA",
+    "assetA":{
+        "assetName":"LUCY",
+        "policyId":"07cceab5ea30fd508ab7cb79fb14a6640ae183aa0bc110f73b4c51e4"
+    },
+    "assetB":{
+        "assetName":"",
+        "policyId":""
+    }
+ },
+ {
+    "pairName": "MAGIC/ADA",
+    "assetA":{
+        "assetName":"MAGIC",
+        "policyId":"c6cc953af29c76fa4e674af6de620d2334a13143334c05e83c497e00"
+    },
+    "assetB":{
+        "assetName":"",
+        "policyId":""
+    }
+ },
+ {
+    "pairName": "MIKE/ADA",
+    "assetA":{
+        "assetName":"MIKE",
+        "policyId":"c6cc953af29c76fa4e674af6de620d2334a13143334c05e83c497e00"
+    },
+    "assetB":{
+        "assetName":"",
+        "policyId":""
+    }
+ },
+ {
+    "pairName": "PLAC/ADA",
+    "assetA":{
+        "assetName":"PLAC",
+        "policyId":"07cceab5ea30fd508ab7cb79fb14a6640ae183aa0bc110f73b4c51e4"
+    },
+    "assetB":{
+        "assetName":"",
+        "policyId":""
+    }
  }
 ]
