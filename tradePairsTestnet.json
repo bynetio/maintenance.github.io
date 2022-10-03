@@ -1,18 +1,4 @@
 [ {
-    
-    "pairName": "BYR1/ADA",
-    "assetA":{
-        "assetName":"BYR1",
-        "policyId":""
-    },
-    "assetB":{
-        "assetName":"",
-        "policyId":""
-    }
-
- },
- {
-    
     "pairName": "BYR2/ADA",
     "assetA":{
         "assetName":"BYR2",
@@ -22,7 +8,6 @@
         "assetName":"",
         "policyId":""
     }
-
  },
  {
     "pairName": "pierniczki/ADA",
